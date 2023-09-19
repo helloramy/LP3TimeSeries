@@ -1,0 +1,11 @@
+python-dotenv 
+pyodbc
+pandas
+seaborn
+matplotlib
+numpy
+xlrd
+openpyxl
+sklearn
+plotly
+xgboost

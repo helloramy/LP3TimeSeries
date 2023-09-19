@@ -1,0 +1,1 @@
+A Trend Analysis on CORPORATION FAVORITA - An Ecuadorian-based Grocery Retailer
